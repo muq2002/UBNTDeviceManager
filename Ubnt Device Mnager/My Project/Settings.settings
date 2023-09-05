@@ -1,0 +1,69 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="SoundType" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="SignalValue" Type="System.String" Scope="User">
+      <Value Profile="(Default)">-60 dBm</Value>
+    </Setting>
+    <Setting Name="NoiseFloorValue" Type="System.String" Scope="User">
+      <Value Profile="(Default)">-80 dBm</Value>
+    </Setting>
+    <Setting Name="TransmitCCQValue" Type="System.String" Scope="User">
+      <Value Profile="(Default)">70 %</Value>
+    </Setting>
+    <Setting Name="TxRxRateValue" Type="System.String" Scope="User">
+      <Value Profile="(Default)">30 Mbps</Value>
+    </Setting>
+    <Setting Name="NameActiveValue" Type="System.String" Scope="User">
+      <Value Profile="(Default)">30 Mbps</Value>
+    </Setting>
+    <Setting Name="DateActiveValue" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ActiveNumberValue" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="UsernameValue" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="OldPasswordValue" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="NewPasswordValue" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="QuestionValue" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="AnswerQuestion" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ColorCMD" Type="System.String" Scope="User">
+      <Value Profile="(Default)">7 : White</Value>
+    </Setting>
+    <Setting Name="IPs" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Devname" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="SSID" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Product" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="User" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Pass" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="SerialNumber" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>

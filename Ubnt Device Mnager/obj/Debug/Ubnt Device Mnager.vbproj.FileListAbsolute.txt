@@ -1,0 +1,38 @@
+c:\users\muq\onedrive\documents\visual studio 2013\Projects\Ubnt Device Mnager\Ubnt Device Mnager\obj\Debug\Ubnt Device Mnager.vbproj.GenerateResource.Cache
+C:\Users\MUQ\OneDrive\Documents\Visual Studio 2013\Projects\Ubnt Device Mnager\Ubnt Device Mnager\obj\Debug\Ubnt_Device_Mnager.About.resources
+C:\Users\MUQ\OneDrive\Documents\Visual Studio 2013\Projects\Ubnt Device Mnager\Ubnt Device Mnager\obj\Debug\Ubnt_Device_Mnager.Active.resources
+C:\Users\MUQ\OneDrive\Documents\Visual Studio 2013\Projects\Ubnt Device Mnager\Ubnt Device Mnager\obj\Debug\Ubnt_Device_Mnager.AddUser.resources
+C:\Users\MUQ\OneDrive\Documents\Visual Studio 2013\Projects\Ubnt Device Mnager\Ubnt Device Mnager\obj\Debug\Ubnt_Device_Mnager.SpeedTestConfigration.resources
+C:\Users\MUQ\OneDrive\Documents\Visual Studio 2013\Projects\Ubnt Device Mnager\Ubnt Device Mnager\obj\Debug\Ubnt_Device_Mnager.Main.resources
+C:\Users\MUQ\OneDrive\Documents\Visual Studio 2013\Projects\Ubnt Device Mnager\Ubnt Device Mnager\obj\Debug\Ubnt_Device_Mnager.Security.resources
+C:\Users\MUQ\OneDrive\Documents\Visual Studio 2013\Projects\Ubnt Device Mnager\Ubnt Device Mnager\obj\Debug\Ubnt_Device_Mnager.Serverdiscovery.resources
+C:\Users\MUQ\OneDrive\Documents\Visual Studio 2013\Projects\Ubnt Device Mnager\Ubnt Device Mnager\obj\Debug\Ubnt_Device_Mnager.ServerOpen.resources
+C:\Users\MUQ\OneDrive\Documents\Visual Studio 2013\Projects\Ubnt Device Mnager\Ubnt Device Mnager\obj\Debug\Ubnt_Device_Mnager.Setting.resources
+C:\Users\MUQ\OneDrive\Documents\Visual Studio 2013\Projects\Ubnt Device Mnager\Ubnt Device Mnager\obj\Debug\Ubnt_Device_Mnager.Resources.resources
+C:\Users\MUQ\onedrive\documents\visual studio 2013\Projects\Ubnt Device Mnager\Ubnt Device Mnager\bin\Debug\Ubnt Device Manager.exe.config
+C:\Users\MUQ\onedrive\documents\visual studio 2013\Projects\Ubnt Device Mnager\Ubnt Device Mnager\bin\Debug\Ubnt Device Manager.exe
+C:\Users\MUQ\onedrive\documents\visual studio 2013\Projects\Ubnt Device Mnager\Ubnt Device Mnager\bin\Debug\Ubnt Device Manager.pdb
+C:\Users\MUQ\onedrive\documents\visual studio 2013\Projects\Ubnt Device Mnager\Ubnt Device Mnager\bin\Debug\Ubnt Device Manager.xml
+C:\Users\MUQ\onedrive\documents\visual studio 2013\Projects\Ubnt Device Mnager\Ubnt Device Mnager\obj\Debug\Ubnt Device Manager.exe
+C:\Users\MUQ\onedrive\documents\visual studio 2013\Projects\Ubnt Device Mnager\Ubnt Device Mnager\obj\Debug\Ubnt Device Manager.xml
+C:\Users\MUQ\onedrive\documents\visual studio 2013\Projects\Ubnt Device Mnager\Ubnt Device Mnager\obj\Debug\Ubnt Device Manager.pdb
+D:\Projects\Visual Studio 2013\Projects\Ubnt Device Mnager\Ubnt Device Mnager\bin\Debug\Ubnt Device Manager.exe.config
+D:\Projects\Visual Studio 2013\Projects\Ubnt Device Mnager\Ubnt Device Mnager\bin\Debug\Ubnt Device Manager.exe
+D:\Projects\Visual Studio 2013\Projects\Ubnt Device Mnager\Ubnt Device Mnager\bin\Debug\Ubnt Device Manager.pdb
+D:\Projects\Visual Studio 2013\Projects\Ubnt Device Mnager\Ubnt Device Mnager\bin\Debug\Ubnt Device Manager.xml
+D:\Projects\Visual Studio 2013\Projects\Ubnt Device Mnager\Ubnt Device Mnager\obj\Debug\Ubnt Device Mnager.vbprojAssemblyReference.cache
+D:\Projects\Visual Studio 2013\Projects\Ubnt Device Mnager\Ubnt Device Mnager\obj\Debug\Ubnt_Device_Mnager.About.resources
+D:\Projects\Visual Studio 2013\Projects\Ubnt Device Mnager\Ubnt Device Mnager\obj\Debug\Ubnt_Device_Mnager.Active.resources
+D:\Projects\Visual Studio 2013\Projects\Ubnt Device Mnager\Ubnt Device Mnager\obj\Debug\Ubnt_Device_Mnager.AddUser.resources
+D:\Projects\Visual Studio 2013\Projects\Ubnt Device Mnager\Ubnt Device Mnager\obj\Debug\Ubnt_Device_Mnager.SpeedTestConfigration.resources
+D:\Projects\Visual Studio 2013\Projects\Ubnt Device Mnager\Ubnt Device Mnager\obj\Debug\Ubnt_Device_Mnager.Main.resources
+D:\Projects\Visual Studio 2013\Projects\Ubnt Device Mnager\Ubnt Device Mnager\obj\Debug\Ubnt_Device_Mnager.Security.resources
+D:\Projects\Visual Studio 2013\Projects\Ubnt Device Mnager\Ubnt Device Mnager\obj\Debug\Ubnt_Device_Mnager.Serverdiscovery.resources
+D:\Projects\Visual Studio 2013\Projects\Ubnt Device Mnager\Ubnt Device Mnager\obj\Debug\Ubnt_Device_Mnager.ServerOpen.resources
+D:\Projects\Visual Studio 2013\Projects\Ubnt Device Mnager\Ubnt Device Mnager\obj\Debug\Ubnt_Device_Mnager.Setting.resources
+D:\Projects\Visual Studio 2013\Projects\Ubnt Device Mnager\Ubnt Device Mnager\obj\Debug\Ubnt_Device_Mnager.Resources.resources
+D:\Projects\Visual Studio 2013\Projects\Ubnt Device Mnager\Ubnt Device Mnager\obj\Debug\Ubnt Device Mnager.vbproj.GenerateResource.cache
+D:\Projects\Visual Studio 2013\Projects\Ubnt Device Mnager\Ubnt Device Mnager\obj\Debug\Ubnt Device Mnager.vbproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio 2013\Projects\Ubnt Device Mnager\Ubnt Device Mnager\obj\Debug\Ubnt Device Manager.exe
+D:\Projects\Visual Studio 2013\Projects\Ubnt Device Mnager\Ubnt Device Mnager\obj\Debug\Ubnt Device Manager.xml
+D:\Projects\Visual Studio 2013\Projects\Ubnt Device Mnager\Ubnt Device Mnager\obj\Debug\Ubnt Device Manager.pdb
